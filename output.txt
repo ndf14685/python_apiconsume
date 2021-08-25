@@ -1,0 +1,6 @@
+200
+3
+Clementine Bauch
+asperiores ea ipsam voluptatibus modi minima quia sint
+(10, 10)
+{'name': 'Clementine Bauch', 'email': 'Nathan@yesenia.net', 'id': 3, 'posts': 'asperiores ea ipsam voluptatibus modi minima quia sint', 'albums': 10, 'photos': 10}
